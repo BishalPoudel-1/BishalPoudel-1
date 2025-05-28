@@ -42,7 +42,7 @@ I am a passionate and driven student with a strong interest in cybersecurity, sp
   <img src="https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SqlMap-4479A1?style=for-the-badge&logoColor=white" />
 
 </p>
 
