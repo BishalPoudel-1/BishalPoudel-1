@@ -1,9 +1,50 @@
 <table> <tr> <td><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" /></td> <td><img src="https://img.shields.io/badge/Hack_The_Box-121212?style=for-the-badge&logo=hackthebox&logoColor=green" /></td> </tr> <tr> <td><img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=gnubash&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/SQLMap-212121?style=for-the-badge&logo=python&logoColor=yellow" /></td> </tr> <tr> <td><img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/Burp_Suite-F37324?style=for-the-badge&logo=burpsuite&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/OWASP_ZAP-03252B?style=for-the-badge&logo=owasp&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white" /></td> </tr> <tr> <td><img src="https://img.shields.io/badge/Hydra-222222?style=for-the-badge&logo=hackaday&logoColor=green" /></td> <td><img src="https://img.shields.io/badge/Aircrack--ng-FF6600?style=for-the-badge&logo=wifi&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/Netcat-444444?style=for-the-badge&logo=gnu-bash&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/Nikto-DD0031?style=for-the-badge&logo=webhint&logoColor=white" /></td> </tr> <tr> <td><img src="https://img.shields.io/badge/Dirb-333333?style=for-the-badge&logo=hackclub&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/Dirbuster-333333?style=for-the-badge&logo=apache&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" /></td> 
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 </tr>
 
 </table>
+
+
+
+## 🧠 Skills & Tool Stack
+
+<p align="center">
+
+  <!-- Operating Systems -->
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+
+  <!-- Frameworks & Libraries -->
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=WordPress&logoColor=white" />
+
+  <!-- DevOps & Tools -->
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+
+  <!-- Hacking Tools -->
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-ff6600?style=for-the-badge&logo=burp-suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLmap-000000?style=for-the-badge&logoColor=white" />
+
+</p>
 
 
 
