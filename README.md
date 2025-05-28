@@ -1,10 +1,10 @@
 # 💫 About Me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bishalpoudel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bishalpoudel884@gmail.com) <br>
 I am a passionate and driven student with a strong interest in cybersecurity, specializing in ethical hacking and red team penetration testing. <br>With hands-on experience in identifying and exploiting vulnerabilities in systems and networks, I focus on simulating real-world cyberattacks to help organizations strengthen their security posture. I am skilled in tools such as Metasploit, Burp Suite, Nmap, and Wireshark, and have experience working with both web and network security assessments. Constantly learning and evolving, I thrive in challenging environments where I can apply my skills to uncover weaknesses and help build resilient defenses.
-
+<!-- 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bishalpoudel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bishalpoudel884@gmail.com) 
-
+-->
 
 ## 💻 Skills & Tool Stack
 
