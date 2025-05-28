@@ -1,3 +1,9 @@
+<table> <tr> <td><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" /></td> <td><img src="https://img.shields.io/badge/Hack_The_Box-121212?style=for-the-badge&logo=hackthebox&logoColor=green" /></td> </tr> <tr> <td><img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=gnu-bash&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/SQLMap-212121?style=for-the-badge&logo=python&logoColor=yellow" /></td> </tr> </table>
+
+
+
+
+
 # 💫 About Me:
 I am a passionate and driven student with a strong interest in cybersecurity, specializing in ethical hacking and red team penetration testing. <br>With hands-on experience in identifying and exploiting vulnerabilities in systems and networks, I focus on simulating real-world cyberattacks to help organizations strengthen their security posture. I am skilled in tools such as Metasploit, Burp Suite, Nmap, and Wireshark, and have experience working with both web and network security assessments. Constantly learning and evolving, I thrive in challenging environments where I can apply my skills to uncover weaknesses and help build resilient defenses.
 
