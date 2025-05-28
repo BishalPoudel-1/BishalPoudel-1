@@ -1,11 +1,11 @@
-<table> <tr> <td><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" /></td> <td><img src="https://img.shields.io/badge/Hack_The_Box-121212?style=for-the-badge&logo=hackthebox&logoColor=green" /></td> </tr> <tr> <td><img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=gnubash&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/SQLMap-212121?style=for-the-badge&logo=python&logoColor=yellow" /></td> </tr> <tr> <td><img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/Burp_Suite-F37324?style=for-the-badge&logo=burpsuite&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/OWASP_ZAP-03252B?style=for-the-badge&logo=owasp&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white" /></td> </tr> <tr> <td><img src="https://img.shields.io/badge/Hydra-222222?style=for-the-badge&logo=hackaday&logoColor=green" /></td> <td><img src="https://img.shields.io/badge/Aircrack--ng-FF6600?style=for-the-badge&logo=wifi&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/Netcat-444444?style=for-the-badge&logo=gnu-bash&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/Nikto-DD0031?style=for-the-badge&logo=webhint&logoColor=white" /></td> </tr> <tr> <td><img src="https://img.shields.io/badge/Dirb-333333?style=for-the-badge&logo=hackclub&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/Dirbuster-333333?style=for-the-badge&logo=apache&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" /></td> <td><img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" /></td> 
-</tr>
+# 💫 About Me:
+I am a passionate and driven student with a strong interest in cybersecurity, specializing in ethical hacking and red team penetration testing. <br>With hands-on experience in identifying and exploiting vulnerabilities in systems and networks, I focus on simulating real-world cyberattacks to help organizations strengthen their security posture. I am skilled in tools such as Metasploit, Burp Suite, Nmap, and Wireshark, and have experience working with both web and network security assessments. Constantly learning and evolving, I thrive in challenging environments where I can apply my skills to uncover weaknesses and help build resilient defenses.
 
-</table>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bishalpoudel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bishalpoudel884@gmail.com) 
 
 
-
-## 🧠 Skills & Tool Stack
+## 💻 Skills & Tool Stack
 
 <p align="center">
 
@@ -48,16 +48,6 @@
 
 
 
-
-# 💫 About Me:
-I am a passionate and driven student with a strong interest in cybersecurity, specializing in ethical hacking and red team penetration testing. <br>With hands-on experience in identifying and exploiting vulnerabilities in systems and networks, I focus on simulating real-world cyberattacks to help organizations strengthen their security posture. I am skilled in tools such as Metasploit, Burp Suite, Nmap, and Wireshark, and have experience working with both web and network security assessments. Constantly learning and evolving, I thrive in challenging environments where I can apply my skills to uncover weaknesses and help build resilient defenses.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bishalpoudel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bishalpoudel884@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=BishalPoudel-1&theme=dark&hide_border=false)<br/>
